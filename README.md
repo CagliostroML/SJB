@@ -1,4 +1,4 @@
-# 📚 Programación Didáctica: Literatura Finisecular y Vanguardias (2º Bachillerato)
+# 📚 Programación Didáctica Anual
 
 > *"Intelijencia, dame / el nombre esacto de las cosas!"* — Juan Ramón Jiménez
 
