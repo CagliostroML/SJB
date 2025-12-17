@@ -8,15 +8,15 @@
 
 Bienvenido al repositorio oficial de mi **Trabajo de Fin de Máster (TFM)**, correspondiente a la Programación Didáctica Anual para la asignatura de **Lengua Castellana y Literatura II**, de segundo de Bachillerato.
 
-Aquí encontrarás la arquitectura curricular completa y los recursos materiales para sobrevivir (y disfrutar) el tránsito desde el **Desastre del 98** hasta el **grito desgarrado de la Posguerra**.
+Aquí encontrarás la arquitectura curricular completa y los recursos materiales para sobrevivir (y disfrutar) el tránsito desde el **Desastre del 98** hasta el **grito desgarrado de la posguerra**.
 
 ## 🧠 Fundamentación Filosófica y Metodológica
 
-El núcleo operativo de esta programación se basa en la **competencia sin disculpas**. Rechazamos la compartimentación estanca del saber. Nos apoyamos en:
+Nos apoyamos en:
 
-* **Modelo CAI (Contextos de Aprendizaje Innovadores):** Fusión de Seminarios (teoría dura), Talleres (creación) y Proyectos (ejecución).
-* **Hermenéutica del "Yo":** La literatura como simulador de vuelo moral. Si no duele o no transforma, no es lectura, es decodificación.
-* **Diseño Universal para el Aprendizaje (DUA):** Inclusión proactiva. Desde el alumno con TDAH hasta la alumna con Altas Capacidades, todos tienen su asiento en el banquete de la literatura.
+* **Modelo CAI (Contextos de Aprendizaje Innovadores):** fusión de Seminarios (teoría dura), Talleres (creación) y Proyectos (ejecución).
+* **Hermenéutica del "yo":** la literatura como simulador de vuelo moral. Si no duele o no transforma, no es lectura, es decodificación.
+* **Diseño Universal para el Aprendizaje (DUA):** inclusión proactiva, todos tienen su asiento en el banquete de la literatura.
 
 ## 📂 Estructura del Repositorio
 
@@ -30,18 +30,9 @@ El repositorio se organiza siguiendo la lógica temporal y temática de las Situ
 * **✍️ `SJB - Literatura finisecular - Ejercicios.pdf`**: Actividades de refuerzo.
 
 ### ⚡ SdA 5: "Romper las formas" (Vanguardias y Generación del 27)
-*La deshumanización del arte, el juego, el sueño y la posterior rehumanización ensangrentada.*
+*La deshumanización del arte, el juego, el sueño y la posterior rehumanización.*
 
 * **📜 `SJB - La literatura de vanguardia y la generación del 27.pdf`**: Dossier completo.
 * **📖 `SJB - Poemas de vanguardia y generación del 27.pdf`**: Corpus poético.
-* **🎨 `SJB - Obras de vanguardia de principios del siglo XX.pdf`**: Recurso interdisciplinar.
+* **🎨 `SJB - Obras de vanguardia de principios del siglo XX.pdf`**: Ejercicio comparativo de obras pictóricos de vanguardia y correlatos clásicos.
 * **✍️ `SJB - Ejercicios sobre vanguardia y generación del 27.pdf`**: Taller de creación.
-
-## 🛠️ Instalación y Uso
-
-Para clonar este repositorio y sumergirte en la angustia existencial de principios del siglo XX, ejecuta en tu terminal:
-
-```bash
-git clone [https://github.com/CagliostroML/SJB.git](https://github.com/CagliostroML/SJB.git)
-cd SJB
-```
